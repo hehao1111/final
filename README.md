@@ -2,10 +2,10 @@ Project Name
 About Me
 
 Installation
-[http://47.236.253.34:8082/]
+(http://47.237.121.118:8082/)
 
 Usage
-[Explain how to use or run the project here.][(http://47.236.253.34:8082/)]
+[Explain how to use or run the project here.](http://47.237.121.118:8082/)
 
 Contributing
 If you want others to contribute code or provide feedback, provide information here.
@@ -24,7 +24,7 @@ He Haonan
     Your student id
     20222094
     Your url for both application.
-   [ http://47.236.253.34:8082/]
+(http://47.237.121.118:8082/)
 
     Set your repository to be public
     https://github.com/hehao1111
